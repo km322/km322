@@ -9,6 +9,7 @@ I'm currently a UCSD Data Science student. Here's my GitHub!
 <iframe src="https://giphy.com/embed/dNgK7Ws7y176U" width="480" height="331" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/homework-dNgK7Ws7y176U">via GIPHY</a></p>
 <ahref="https://giphy.com/gifs/homework-dNgK7Ws7y176U"><img src="https://giphy.com/embed/dNgK7Ws7y176U" width="5%"></a>
 
+<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif" width="5%"></a>
 
 ### GitHub Summary:
 
