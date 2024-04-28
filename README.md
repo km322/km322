@@ -2,6 +2,9 @@
 
 I'm currently a UCSD Data Science student. Here's my GitHub!
 
+### LinkedIn:
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/ketan-mittal322/))
+
 ### GitHub Summary:
 
 [![](https://raw.githubusercontent.com/km322/km322/master/profile-summary-card-output/jolly/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
