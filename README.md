@@ -3,8 +3,9 @@
 I'm currently a UCSD Data Science student. Here's my GitHub!
 
 ### LinkedIn:
-[![Linkedin]([https://www.linkedin.com/ketan-mittal322]) LinkedIn]([https://www.linkedin.com/ketan-mittal322])
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ketan-mittal322/)
 &nbsp;
+
 
 ### GitHub Summary:
 
