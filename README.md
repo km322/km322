@@ -1,4 +1,4 @@
-# Hey! I'm Ketan 😇
+# Hey! I'm Ketan <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif" width="10%"></a>
 
 I'm currently a UCSD Data Science student. Here's my GitHub!
 
@@ -6,10 +6,6 @@ I'm currently a UCSD Data Science student. Here's my GitHub!
 
 <a href="https://linkedin.com/in/ketan-mittal322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 
-<iframe src="https://giphy.com/embed/dNgK7Ws7y176U" width="480" height="331" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/homework-dNgK7Ws7y176U">via GIPHY</a></p>
-<ahref="https://giphy.com/gifs/homework-dNgK7Ws7y176U"><img src="https://giphy.com/embed/dNgK7Ws7y176U" width="5%"></a>
-
-<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif" width="5%"></a>
 
 ### GitHub Summary:
 
