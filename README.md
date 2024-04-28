@@ -6,8 +6,8 @@ I'm currently a UCSD Data Science student. Here's my GitHub!
 
 <a href="https://linkedin.com/in/ketan-mittal322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ketan-mittal322/)
-&nbsp;
+<iframe src="https://giphy.com/embed/dNgK7Ws7y176U" width="480" height="331" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/homework-dNgK7Ws7y176U">via GIPHY</a></p>
+<ahref="https://giphy.com/gifs/homework-dNgK7Ws7y176U"><img src="https://giphy.com/embed/dNgK7Ws7y176U" width="5%"></a>
 
 
 ### GitHub Summary:
