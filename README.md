@@ -1,4 +1,4 @@
-# Hey! I'm Ketan <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif" width="7%"></a>
+# Hey! I'm Ketan <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif" width="5%"></a>
 
 I'm currently a UCSD Data Science student. Here's my GitHub!
 
