@@ -10,5 +10,5 @@ I'm currently a UCSD Data Science student. Here's my GitHub!
 
 ### Leetcode Stats:
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/StickyRice322?theme=unicorn)](https://leetcode.com/StickyRice322?theme=light,unicorn?ext=heatmap)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/StickyRice322?ext=heatmap)](https://leetcode.com/StickyRice322?theme=light,unicorn?ext=heatmap)
 
