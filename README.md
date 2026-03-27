@@ -29,7 +29,7 @@
 ketan@github:~$ whoami
 ```
 
-Data Science student at **UC San Diego** with minors in **Mathematics** and **Cognitive Science**, building intelligent systems across neuroscience, healthcare, and operations. I work at the intersection of machine learning, backend engineering, and product — turning complex ideas into impactful applications.
+Data Science student at **UC San Diego** double minoring in Mathematics and Cognitive Science, building intelligent systems across neuroscience, healthcare, and operations. I work at the intersection of machine learning, backend engineering, and product — turning complex ideas into impactful applications.
 
 ```bash
 ketan@github:~$ ls ~/current/
