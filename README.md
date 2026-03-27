@@ -47,7 +47,7 @@ ketan@github:~$ history
 
 <img src="https://cdn.brandfetch.io/domain/humana.com/fallback/lettermark/theme/dark/h/400/w/400/icon?c=1bfwsmEH20zzEfSNTed" width="20" height="20" alt="Humana"> **Humana** — Enterprise AI Intern, built a RAG Conversational AI framework, engineered parallelized microservices, and designed real-time LLM telemetry dashboards.
 
-<img src="https://media.licdn.com/dms/image/v2/C560BAQFE08uMzwKRWQ/company-logo_200_200/company-logo_200_200/0/1634945519152/data_science_student_society_at_ucsd_logo?e=2147483647&v=beta&t=17ReyRN6TQfqJjMARhYpxvNS7Iw4HxrJSNBz6G5-RxI" width="20" height="20" alt="DS3"> **[Data Science Student Society](https://www.ds3atucsd.com/board)** — Project Director, leading quarterly AI/data science projects across a 60-member team
+<img src="https://media.licdn.com/dms/image/v2/C560BAQFE08uMzwKRWQ/company-logo_200_200/company-logo_200_200/0/1634945519152/data_science_student_society_at_ucsd_logo?e=2147483647&v=beta&t=17ReyRN6TQfqJjMARhYpxvNS7Iw4HxrJSNBz6G5-RxI" width="20" height="20" alt="DS3"> **Data Science Student Society** — Project Director, leading quarterly AI/data science projects across a 60-member team
 
 <img src="https://github.com/ucsd.png" width="20" height="20" alt="UCSD"> **Halicioglu Data Science Institute** — Instructional Assistant, tutor & grader for DSC 40B (Theoretical Foundations of Data Science II)
 
