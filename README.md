@@ -35,6 +35,8 @@ Data Science student at **UC San Diego** double minoring in Mathematics and Cogn
 ketan@github:~$ ls ~/current/
 ```
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Apple_logo_white.svg/1920px-Apple_logo_white.svg.png" width="20" height="20" alt="Apple"> **Apple** — SWE Intern, Apple Ads Team
+
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWXOHaaeNpDgf-GshbCGK76cQ-_h-nnzUJ9Q&s" width="20" height="20" alt="ResMed"> **ResMed** — SWE Intern, architecting MCP-powered agentic LLMs & RAG frameworks for warehouse operations
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRieJYBeZ3sI1eMylAhKtPGySZcqVRd3e5Jvg&s" width="20" height="20" alt="Salk Institute"> **[Talmo Lab @ Salk Institute](https://talmolab.org/members/ketan-mittal.html)** — Researcher, CV & ML for detecting ALS biomarkers before symptom onset
